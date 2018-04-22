@@ -1,0 +1,63 @@
+
+body {
+    font-family: 'ARS Maquette','Helvetica Neue',Arial,sans-serif;
+    font-size: 14px;
+    color: #555;
+    line-height: 1.5;
+    min-height: 100vh;
+}
+
+.nav1, .nav2 { 
+    margin-bottom: 0;    
+}
+
+.nav2 a:hover {
+  font-weight:bold;
+}
+
+.padd {
+  padding-right: 0;
+}
+
+.paddo {
+  padding-left: 0;
+}
+
+.maggo {
+  margin-bottom: 0
+}
+
+.media h4 {
+  font-size: 16px!important;
+  font-weight: 700;
+  line-height: 18px!important;
+}
+
+.media a {
+  color: #000;
+}
+
+.media a:hover{
+  color: red;
+}
+
+.news h4 {
+  font-size: 24px!important;
+  font-weight: 700;
+  line-height: 18px!important;
+}
+
+.news a {
+  text-decoration-style: none;
+  color: red;
+}
+
+.news a:hover{
+  color: #000;
+  text-decoration-style: none;
+}
+
+.news {
+  margin: 20px 0px 20px 0px;
+}
+
