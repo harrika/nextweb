@@ -48,13 +48,13 @@ body {
 }
 
 .news a {
-  text-decoration-style: none;
+  text-decoration: none;
   color: red;
 }
 
 .news a:hover{
   color: #000;
-  text-decoration-style: none;
+  text-decoration: none;
 }
 
 .news {
